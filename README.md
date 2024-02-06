@@ -10,7 +10,6 @@ You can buy it for example here: https://www.aliexpress.com/item/100500375412820
 ![image](https://github.com/ViktorDiy/FLSUN-V400-extra-MOS-outputs-for-Chamber-FAN-control/assets/147925158/5a736485-dd9e-4eb0-83b3-f774e125b7f1)
 ![image](https://github.com/ViktorDiy/FLSUN-V400-extra-MOS-outputs-for-Chamber-FAN-control/assets/147925158/7501e695-d46c-4413-b6e5-6d5ecfe1102e)
 ![image](https://github.com/ViktorDiy/FLSUN-V400-extra-MOS-outputs-for-Chamber-FAN-control/assets/147925158/82905b1c-3c0c-4bc4-92f2-a1c3ffe774dc)
-![image](https://github.com/ViktorDiy/FLSUN-V400-extra-MOS-outputs-for-Chamber-FAN-control/assets/147925158/28a8a739-fc9f-452e-80ab-d812f1573f64)
 
 MKS 3MOS scheme:
 ![image](https://github.com/ViktorDiy/FLSUN-V400-extra-MOS-outputs-for-Chamber-FAN-control/assets/147925158/2c46a808-5b4b-4f50-9356-8bff2c00dd59)
