@@ -16,7 +16,7 @@ MKS 3MOS scheme:
 ![image](https://github.com/ViktorDiy/FLSUN-V400-extra-MOS-outputs-for-Chamber-FAN-control/assets/147925158/2c46a808-5b4b-4f50-9356-8bff2c00dd59)
 
 
-Driver slot should be in STEP/DIR mode (not in UART, not in SPI). You can setup it by jampers positions on picture below.
+Driver slot should be in STEP/DIR mode (not in UART, not in SPI). You can setup it by jumpers positions on picture below.
 MKS Robin NANO v2 pinout with pins that we need for this setup:
 ![image](https://github.com/ViktorDiy/FLSUN-V400-extra-MOS-outputs-for-Chamber-FAN-control/assets/147925158/bc5693fb-44f5-4bcb-9c13-920fd20fe80a)
 
