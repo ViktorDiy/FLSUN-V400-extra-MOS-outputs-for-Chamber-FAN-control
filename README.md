@@ -30,16 +30,30 @@ https://www.teamfdm.com/files/file/455-chamber-heater/
 https://www.youtube.com/watch?v=81M_4skLzUM&t=367s
 
 Printer.cfg example for how to use:
+
 [temperature_fan chamber]
+
 pin: PA3 #STEP/DIR EN pin
+
 max_power: 1.0
+
 shutdown_speed: 0.0
+
 kick_start_time: 5.0
+
 cycle_time:0.01
+
 off_below:0.1
+
 sensor_type: EPCOS 100K B57560G104F
+
 sensor_pin: PC2 #TH2 for E1 temperature sensor
+
 min_temp: 0
+
 max_temp: 95
+
 target_temp: 40
+
 control: watermark
+
