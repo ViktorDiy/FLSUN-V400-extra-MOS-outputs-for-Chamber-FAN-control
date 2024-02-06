@@ -20,9 +20,9 @@ MKS Robin NANO v2 pinout with pins that we need for this setup:
 ![image](https://github.com/ViktorDiy/FLSUN-V400-extra-MOS-outputs-for-Chamber-FAN-control/assets/147925158/bc5693fb-44f5-4bcb-9c13-920fd20fe80a)
 
 
-So, ENABLE or EN responsible for FAN 1 control 
-    STEP for FAN 2
-    DIR for FAN 3
+So, ENABLE or EN responsible for FAN 1 control, 
+    STEP for FAN 2,
+    DIR for FAN 3.
 
 Some usefull links:
 https://www.teamfdm.com/files/file/455-chamber-heater/
