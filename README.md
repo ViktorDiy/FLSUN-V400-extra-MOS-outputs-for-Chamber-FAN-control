@@ -28,6 +28,7 @@ Some usefull links:
 https://www.teamfdm.com/files/file/455-chamber-heater/
 https://www.youtube.com/watch?v=81M_4skLzUM&t=367s
 https://www.facebook.com/profile.php?id=100094217897627
+https://youtu.be/IhrfpiFtsbw?si=Ev9Sy7TuxG35bLEd
 
 Printer.cfg example for how to use:
 
