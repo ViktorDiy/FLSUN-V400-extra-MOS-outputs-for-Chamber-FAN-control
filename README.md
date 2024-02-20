@@ -40,6 +40,9 @@ EXP2_9 GND
 EXP1_7 PD11 "output_pin LED_logo" in printer.cfg for logo led light <br/>
 EXP1_9 GND
 
+EXP2 pinout and SPI: <br/>
+![image](https://github.com/ViktorDiy/FLSUN-V400-extra-MOS-outputs-for-Chamber-FAN-control/assets/147925158/5e371c9e-54aa-4b72-aaed-946b66b34465)
+
 
 So, ENABLE or EN responsible for FAN 1 control <br/>
     STEP for FAN 2 <br/>
