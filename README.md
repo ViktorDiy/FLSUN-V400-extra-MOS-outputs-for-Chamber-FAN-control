@@ -27,9 +27,9 @@ MKS Robin NANO v2 pinout with pins that we need for this setup:
 We can use for extra temp sensor via SPI + MAX31865:
 
 EXP2_1 MISO PA6 <br/>
-EXP2_2 SCK PA5 <br/>
+EXP2_2 SCK PA5 (clock) <br/>
 EXP2_6 MOSI PE10 <br/>
-EXP2_4 CS PE0 <br/>
+EXP2_4 CS PE0 (temperature sinal) <br/>
 
 
 Already used by FLSUN:
@@ -41,7 +41,8 @@ EXP1_7 PD11 "output_pin LED_logo" in printer.cfg for logo led light <br/>
 EXP1_9 GND
 
 EXP2 pinout and SPI: <br/>
-![image](https://github.com/ViktorDiy/FLSUN-V400-extra-MOS-outputs-for-Chamber-FAN-control/assets/147925158/5e371c9e-54aa-4b72-aaed-946b66b34465)
+![image](https://github.com/ViktorDiy/FLSUN-V400-extra-MOS-outputs-for-Chamber-FAN-control/assets/147925158/c70455e1-de22-4db7-a007-1f9c6b943ae0)
+
 
 
 So, ENABLE or EN responsible for FAN 1 control <br/>
