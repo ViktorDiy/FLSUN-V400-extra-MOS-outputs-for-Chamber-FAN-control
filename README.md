@@ -29,7 +29,7 @@ We can use for extra temp sensor via SPI + MAX31865:
 EXP2_1 MISO PA6 <br/>
 EXP2_2 SCK PA5 (clock) <br/>
 EXP2_6 MOSI PE10 <br/>
-EXP2_4 CS PE0 (temperature sinal) <br/>
+EXP2_4 CS PE0 (temperature signal) <br/>
 
 
 Already used by FLSUN:
