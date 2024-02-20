@@ -24,9 +24,21 @@ MKS Robin NANO v2 pinout with pins that we need for this setup:
 ![image](https://github.com/ViktorDiy/FLSUN-V400-extra-MOS-outputs-for-Chamber-FAN-control/assets/147925158/22bba723-f1ca-4602-a68e-8ff90389a84a)
 
 
+We can use for extra temp sensor via SPI + MAX31865:
+
+EXP2_1 MISO PA6 
+EXP2_2 SCK PA5
+EXP2_6 MOSI PE10
+EXP2_4 CS PE0
 
 
+Already used by FLSUN:
 
+EXP2_7 PE12 "output_pin LED_pin" in printer.cfg for head led light
+EXP2_9 GND
+
+EXP1_7 PD11 "output_pin LED_logo" in printer.cfg for logo led light
+EXP1_9 GND
 
 
 So, ENABLE or EN responsible for FAN 1 control, 
