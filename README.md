@@ -47,41 +47,26 @@ So, ENABLE or EN responsible for FAN 1 control <br/>
 
 Some usefull links:
 
-https://github.com/makerbase-mks/MKS-Robin-Nano-V2.X
+https://github.com/makerbase-mks/MKS-Robin-Nano-V2.X <br/>
+https://www.teamfdm.com/files/file/455-chamber-heater/  <br/>
+https://www.youtube.com/watch?v=81M_4skLzUM&t=367s  <br/>
+https://www.facebook.com/profile.php?id=100094217897627  <br/>
+https://youtu.be/IhrfpiFtsbw?si=Ev9Sy7TuxG35bLEd  <br/>
 
-https://www.teamfdm.com/files/file/455-chamber-heater/
-
-https://www.youtube.com/watch?v=81M_4skLzUM&t=367s
-
-https://www.facebook.com/profile.php?id=100094217897627
-
-https://youtu.be/IhrfpiFtsbw?si=Ev9Sy7TuxG35bLEd
 
 Printer.cfg example for how to use:
 
-[temperature_fan chamber]
-
-pin: PA3 #STEP/DIR EN pin
-
-max_power: 1.0
-
-shutdown_speed: 0.0
-
-kick_start_time: 5.0
-
-cycle_time:0.01
-
-off_below:0.1
-
-sensor_type: EPCOS 100K B57560G104F
-
-sensor_pin: PC2 #TH2 for E1 temperature sensor
-
-min_temp: 0
-
-max_temp: 95
-
-target_temp: 40
-
-control: watermark
+[temperature_fan chamber]  <br/>
+pin: PA3 #STEP/DIR EN pin  <br/>
+max_power: 1.0  <br/>
+shutdown_speed: 0.0  <br/>
+kick_start_time: 5.0  <br/>
+cycle_time:0.01  <br/>
+off_below:0.1  <br/>
+sensor_type: EPCOS 100K B57560G104F  <br/>
+sensor_pin: PC2 #TH2 for E1 temperature sensor  <br/>
+min_temp: 0  <br/>
+max_temp: 95  <br/>
+target_temp: 40  <br/>
+control: watermark  <br/>
 
