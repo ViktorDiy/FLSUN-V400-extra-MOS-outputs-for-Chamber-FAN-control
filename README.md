@@ -26,24 +26,24 @@ MKS Robin NANO v2 pinout with pins that we need for this setup:
 
 We can use for extra temp sensor via SPI + MAX31865:
 
-EXP2_1 MISO PA6 
-EXP2_2 SCK PA5
-EXP2_6 MOSI PE10
-EXP2_4 CS PE0
+EXP2_1 MISO PA6 <br/>
+EXP2_2 SCK PA5 <br/>
+EXP2_6 MOSI PE10 <br/>
+EXP2_4 CS PE0 <br/>
 
 
 Already used by FLSUN:
 
-EXP2_7 PE12 "output_pin LED_pin" in printer.cfg for head led light
+EXP2_7 PE12 "output_pin LED_pin" in printer.cfg for head led light <br/>
 EXP2_9 GND
 
-EXP1_7 PD11 "output_pin LED_logo" in printer.cfg for logo led light
+EXP1_7 PD11 "output_pin LED_logo" in printer.cfg for logo led light <br/>
 EXP1_9 GND
 
 
-So, ENABLE or EN responsible for FAN 1 control, 
-    STEP for FAN 2,
-    DIR for FAN 3.
+So, ENABLE or EN responsible for FAN 1 control <br/>
+    STEP for FAN 2 <br/>
+    DIR for FAN 3 <br/>
 
 Some usefull links:
 
