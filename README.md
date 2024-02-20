@@ -31,9 +31,15 @@ So, ENABLE or EN responsible for FAN 1 control,
     DIR for FAN 3.
 
 Some usefull links:
+
+https://github.com/makerbase-mks/MKS-Robin-Nano-V2.X
+
 https://www.teamfdm.com/files/file/455-chamber-heater/
+
 https://www.youtube.com/watch?v=81M_4skLzUM&t=367s
+
 https://www.facebook.com/profile.php?id=100094217897627
+
 https://youtu.be/IhrfpiFtsbw?si=Ev9Sy7TuxG35bLEd
 
 Printer.cfg example for how to use:
