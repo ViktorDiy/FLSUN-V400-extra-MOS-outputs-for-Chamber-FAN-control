@@ -41,7 +41,8 @@ EXP1_7 PD11 "output_pin LED_logo" in printer.cfg for logo led light <br/>
 EXP1_9 GND
 
 EXP2 pinout and SPI: <br/>
-![image](https://github.com/ViktorDiy/FLSUN-V400-extra-MOS-outputs-for-Chamber-FAN-control/assets/147925158/c70455e1-de22-4db7-a007-1f9c6b943ae0)
+![image](https://github.com/ViktorDiy/FLSUN-V400-extra-MOS-outputs-for-Chamber-FAN-control/assets/147925158/09194783-c478-40ad-990e-cca8b8e98c9f)
+
 
 
 
