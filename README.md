@@ -19,7 +19,15 @@ Driver slot should be in STEP/DIR mode (not in UART, not in SPI). You can setup 
 MKS Robin NANO v2 pinout with pins that we need for this setup:
 ![image](https://github.com/ViktorDiy/FLSUN-V400-extra-MOS-outputs-for-Chamber-FAN-control/assets/147925158/bc5693fb-44f5-4bcb-9c13-920fd20fe80a)
 
-![image](https://github.com/ViktorDiy/FLSUN-V400-extra-MOS-outputs-for-Chamber-FAN-control/assets/147925158/6a2a88d7-0f53-45e3-9a41-af8feda3a2cc)
+![image](https://github.com/ViktorDiy/FLSUN-V400-extra-MOS-outputs-for-Chamber-FAN-control/assets/147925158/e060d21e-4524-4b3d-8958-dd93904966ba)
+
+    # EXP1 header
+    EXP1_2=PE13, EXP1_4=PC6, EXP1_6=PE15, EXP1_8=PD10, EXP1_10=<5V>,
+    EXP1_1=PC5, EXP1_3=PD13, EXP1_5=PE14, EXP1_7=PD11,  EXP1_9=<GND>,
+    # EXP2 header
+    EXP2_2=PA5, EXP2_4=PE0, EXP2_6=PE10,  EXP2_8=<RST>, EXP2_10=<3.3v>,
+    EXP2_1=PA6, EXP2_3=PE8, EXP2_5=PE11, EXP2_7=PE12, EXP2_9=<GND>
+    # Pins EXP2_1, EXP2_6, EXP2_2 are also MISO, MOSI, SCK of bus "ssp1"
 
 
 
