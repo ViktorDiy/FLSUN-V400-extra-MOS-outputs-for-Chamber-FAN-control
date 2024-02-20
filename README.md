@@ -63,7 +63,6 @@ https://youtu.be/IhrfpiFtsbw?si=Ev9Sy7TuxG35bLEd  <br/>
 Printer.cfg example for how to use:
 
 [temperature_fan chamber]  <br/>
-
 pin: PA3 #STEP/DIR EN pin  <br/>
 max_power: 1.0  <br/>
 shutdown_speed: 0.0  <br/>
