@@ -42,6 +42,8 @@ EXP1_9 GND
 
 EXP2 pinout and SPI: <br/>
 ![image](https://github.com/ViktorDiy/FLSUN-V400-extra-MOS-outputs-for-Chamber-FAN-control/assets/147925158/09194783-c478-40ad-990e-cca8b8e98c9f)
+![image](https://github.com/ViktorDiy/FLSUN-V400-extra-MOS-outputs-for-Chamber-FAN-control/assets/147925158/c08d4297-a85f-4c24-889b-3b4f9f9da68c)
+
 
 
 
