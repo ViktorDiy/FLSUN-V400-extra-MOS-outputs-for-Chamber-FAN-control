@@ -52,7 +52,7 @@ So, ENABLE or EN responsible for FAN 1 control <br/>
 
 Some usefull links:
 
-https://github.com/makerbase-mks/MKS-Robin-Nano-V2.X (be careful there are bugs in some documentation, at this pinout picture was wrong pins for EXP2) <br/>
+https://github.com/makerbase-mks/MKS-Robin-Nano-V2.X (be careful there are bugs in some documentation, at big pinout picture above was wrong pins for EXP2) <br/>
 https://www.teamfdm.com/files/file/455-chamber-heater/  <br/>
 https://www.youtube.com/watch?v=81M_4skLzUM&t=367s  <br/>
 https://youtu.be/IhrfpiFtsbw?si=Ev9Sy7TuxG35bLEd  <br/>
